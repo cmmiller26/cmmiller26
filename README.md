@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Studying Computer Science at the University of Iowa (Class of 2027)
+
+Devloping games on Roblox
+
 <!--
 **SnarlyZoo/SnarlyZoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
