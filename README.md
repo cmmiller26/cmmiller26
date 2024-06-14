@@ -1,1 +1,1 @@
-Studying Computer Science at the University of Iowa (Class of 2027)
+Studying Computer Science at the University of Iowa (class of 2027)
