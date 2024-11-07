@@ -22,7 +22,7 @@
    - [Play on Roblox](https://www.roblox.com/games/18974408236/Turf-Wars)
 
 - **[Top Down Shooter](https://github.com/cmmiller26/Top-Down-Shooter)**  
-   A cross-platform top-down shooter where I implemented **server-authoritative shooting** with **lag compensation** to ensure accuracy across devices.  
+   A Roblox top-down shooter archived as a public project. This game demonstrates **server-authoritative shooting** with **lag compensation** to ensure accuracy.  
    - [Play on Roblox](https://www.roblox.com/games/10876861657/Top-Down-Shooter)
 
 - **Splatter Blocks**  
