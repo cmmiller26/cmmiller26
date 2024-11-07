@@ -30,3 +30,9 @@
    - [Play on Roblox](https://www.roblox.com/games/10770644057/Splatter-Blocks)
 
 ---
+
+### 🔗 Connect with Me on Roblox
+- **[Roblox Profile](https://www.roblox.com/users/107484074/profile)**  
+- **[Roblox DevForum Profile](https://devforum.roblox.com/u/snarlyzoo/summary)**
+
+---
