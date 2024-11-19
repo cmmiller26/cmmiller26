@@ -17,7 +17,7 @@
 ---
 
 ### 🕹️ Projects
-- **[Turf Wars](https://github.com/cmmiller26)**  
+- **[Turf Wars](https://github.com/cmmiller26/Turf-Wars)**  
    In-progress Roblox game inspired by the Minecraft mini-game Turf Wars, featuring **OOP concepts** like inheritance and polymorphism to manage game mechanics efficiently.  
    - [Play on Roblox](https://www.roblox.com/games/18974408236/Turf-Wars)
 
