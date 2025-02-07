@@ -9,16 +9,16 @@
 ---
 
 ### Skills & Tools
-- **Languages:** Lua, Java, Python  
-- **Tools:** Visual Studio Code, GitHub, Eclipse IDE  
-- **Frameworks & Libraries:** RbxUtil Library, JUnit
+- **Languages:** Luau, Java, TypeScript, Python
+- **Tools:** Visual Studio Code, GitHub, Eclipse IDE
+- **Frameworks & Libraries:** Flamework, RbxUtil Library, React Lua, JUnit
 
 ---
 
 ### Featured Projects
 - **[Turf Wars](https://github.com/cmmiller26/Turf-Wars)**  
    A Roblox game inspired by Minecraft’s Turf Wars, leveraging **inheritance** and **polymorphism** to manage gameplay mechanics.  
-   - [Play on Roblox](https://www.roblox.com/games/18974408236/Turf-Wars)
+   - [Play on Roblox](https://www.roblox.com/games/93983846016746/Turf-Wars)
 
 - **Splatter Blocks**  
    A commissioned Roblox game inspired by Splatoon, featuring team-based mechanics and vibrant gameplay.  
