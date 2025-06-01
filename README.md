@@ -33,6 +33,6 @@ A commissioned Roblox project inspired by Nintendo’s *Splatoon*, showcasing vi
 
 ## Connect
 
-- [LinkedIn](www.linkedin.com/in/colin-miller-uiowa)  
+- [LinkedIn](https://www.linkedin.com/in/colin-miller-uiowa)  
 - [Roblox Profile](https://www.roblox.com/users/107484074/profile)  
 - [DevForum Profile](https://devforum.roblox.com/u/snarlyzoo/summary)  
