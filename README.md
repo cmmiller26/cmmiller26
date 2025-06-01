@@ -23,13 +23,6 @@ Built with **Next.js**, **TypeScript**, and **PostgreSQL**, it integrates OpenAI
 
 ---
 
-### [Turf Wars](https://github.com/cmmiller26/Turf-Wars)  
-A team-based PvP Roblox game inspired by Minecraft’s Turf Wars, featuring dynamic rounds, build-and-fight phases, and grid-based construction.  
-- Engineered with **object-oriented architecture**, using **inheritance** and **polymorphism** to manage tools and player interaction.  
-- Focused on **server-authoritative projectile systems**, lag compensation, and clean visual feedback.  
-
----
-
 ### [Splatter Blocks](https://www.roblox.com/games/10770644057/Splatter-Blocks)  
 A commissioned Roblox project inspired by Nintendo’s *Splatoon*, showcasing vibrant, territory-control combat mechanics.  
 - Implemented team coordination systems, responsive UI, and scalable backend logic for gameplay flow.  
